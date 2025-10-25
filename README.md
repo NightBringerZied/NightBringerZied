@@ -43,7 +43,7 @@ Building secure, scalable, and elegant systems — from APIs to real-time chat a
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,fastapi,gin,postgres,mongodb,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=go,python,fastapi,postgres,mongodb,docker,postman" />
 </p>
 
 ### 🎨 Frontend
