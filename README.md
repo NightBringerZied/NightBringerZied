@@ -17,7 +17,6 @@
 ### 🚀 Backend Developer & Cybersecurity Enthusiast  
 Building secure, scalable, and elegant systems — from APIs to real-time chat apps.  
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**  
 - 💬 Ask me about **Go, FastAPI, React, WebSockets... or anything [here](https://github.com/NightBringerZied/NightBringerZied/issues)**  
 
 <br>
@@ -28,12 +27,6 @@ Building secure, scalable, and elegant systems — from APIs to real-time chat a
   </a>
   <a href="https://www.linkedin.com/in/ziedbenaliouche/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@NightBringerZied" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/NightBringerZied" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 </div>
 
