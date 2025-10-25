@@ -2,6 +2,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Zied+Benaliouche!;" />
 </h1>
 
+<p align="center">
+  <b>Backend Developer • Cybersecurity Enthusiast • Pwn Player</b>
+</p>
+
+<p align="center">
+  I’m passionate about building <b>scalable backend systems</b> and exploring the depths of <b>binary exploitation and cybersecurity</b>.  
+  With a background in <b>Go, FastAPI, and networking</b>, I love designing clean architectures, solving CTF challenges, and turning complex ideas into secure, production-ready solutions.  
+  My mission is to blend <b>engineering precision</b> with <b>security awareness</b> — crafting software that’s not only powerful but safe.
+</p>
+
+---
+
 ### 🚀 Backend Developer & Cybersecurity Enthusiast  
 Building secure, scalable, and elegant systems — from APIs to real-time chat apps.  
 
@@ -51,12 +63,5 @@ Building secure, scalable, and elegant systems — from APIs to real-time chat a
 
 <hr>
 
-### 🌟 Featured Projects
-
-- 🧩 [Jobick Backend](https://github.com/NightBringerZied/jobick-backend) — Scalable job portal API using Go (Gin) & PostgreSQL  
-- 💬 [EchoLink ChatApp](https://github.com/NightBringerZied/echolink) — Real-time WebSocket chat built with Go  
-- ✅ [TaskFlow CLI](https://github.com/NightBringerZied/taskflow-cli) — Minimalist CLI task manager built in Go  
-
----
 
 ⭐️ *From [NightBringerZied](https://github.com/NightBringerZied) — keep building, keep breaking, keep learning.*
